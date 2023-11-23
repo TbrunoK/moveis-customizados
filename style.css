@@ -61,5 +61,7 @@ p,
 #balls {
   position: fixed;
   bottom: 0px;
-  right: 0;
+  right: 0px;
+  z-index: 1;
+  opacity: 87%;
 }
