@@ -34,7 +34,7 @@ a {
 
 div a.instagram:hover,
 a.contactus:hover {
-  color: hsl(0, 99%, 49%)
+  color: hsl(0, 99%, 49%);
 }
 
 p,
