@@ -32,6 +32,11 @@ a {
   color: #ff9900;
 }
 
+div a.instagram:hover,
+a.contactus:hover {
+  color: hsl(0, 99%, 49%)
+}
+
 p,
 #footer {
   color: #7d7987;
