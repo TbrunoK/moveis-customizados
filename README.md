@@ -1,21 +1,21 @@
-# Móveis Customizados
+# Portfólio de Imagens de Projetos de Desenvolvimento Web
 
-Este é um projeto de site para uma empresa fictícia de móveis customizados. O objetivo deste projeto é apresentar os serviços da empresa e destacar a exclusividade e qualidade dos ambientes projetados.
+Este projeto consiste em um simples site HTML que exibe uma coleção de imagens relacionadas ao desenvolvimento web, como capturas de tela de páginas HTML e CSS. O objetivo deste projeto é fornecer uma maneira rápida e fácil de visualizar essas imagens.
 
-## Conteúdo
+## Estrutura do Projeto
 
-O projeto consiste em um arquivo HTML e um arquivo CSS:
+O projeto inclui dois arquivos:
 
-- **HTML**: Contém a estrutura da página, incluindo elementos como imagens, títulos, parágrafos e links.
-- **CSS**: Define os estilos visuais da página, como fontes, cores, margens e tamanhos, garantindo uma apresentação limpa e moderna.
+- **HTML**: Este arquivo contém a estrutura da página, incluindo um menu de navegação e uma seção principal para exibir as imagens.
+- **CSS**: O arquivo de estilos CSS define a aparência visual da página, como cores de fundo, estilos de fonte e posicionamento de elementos.
 
 ## Funcionalidades
 
-- Banner de destaque na página inicial, apresentando uma imagem ilustrativa e texto destacando os serviços da empresa.
-- Links para redes sociais e formulário de contato no rodapé da página.
-- Design responsivo, adaptando-se a diferentes tamanhos de tela.
+- Menu de navegação que permite filtrar as imagens por categoria.
+- Exibição de imagens em duas colunas para melhor organização.
+- Ícones do Ionicons para adicionar elementos visuais aos links do menu e ao rodapé da página.
 
-## Como usar
+## Como Usar
 
 1. Faça o download ou clone este repositório.
 2. Abra o arquivo `index.html` em seu navegador para visualizar a página.
@@ -24,6 +24,4 @@ O projeto consiste em um arquivo HTML e um arquivo CSS:
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas (issues) ou enviar pull requests com melhorias, correções de bugs ou novas funcionalidades.
 
-<a href="https://tbrunok.github.io/moveis-customizados/">
-  <img src="https://github.com/TbrunoK/moveis-customizados/blob/main/assets/Page-finished.png?raw=true">
-</a>
+![Imagem de fundo](https://github.com/TbrunoK/projetopinterest/blob/main/assets/Finished.png?raw=true)
