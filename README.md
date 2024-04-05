@@ -1,4 +1,4 @@
-# Portfólio de Imagens de Projetos de Desenvolvimento Web
+![image](https://github.com/TbrunoK/moveis-customizados/assets/86078571/aace49d8-1c66-4f83-89f0-c5c74b36deb6)# Portfólio de Imagens de Projetos de Desenvolvimento Web
 
 Este projeto consiste em um simples site HTML que exibe uma coleção de imagens relacionadas ao desenvolvimento web, como capturas de tela de páginas HTML e CSS. O objetivo deste projeto é fornecer uma maneira rápida e fácil de visualizar essas imagens.
 
@@ -26,5 +26,5 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas (issue
 
 <div aling="center">
 <a href="https://tbrunok.github.io/moveis-customizados/">
-    <img src="https://github.com/TbrunoK/projetopinterest/blob/main/assets/Finished.png?raw=true"/>
+    <img src="https://github.com/TbrunoK/moveis-customizados/blob/main/assets/Page-finished.png?raw=true"/>
   </a>
